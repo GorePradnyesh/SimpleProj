@@ -1,0 +1,5 @@
+#ignore build output
+make
+
+#  Basic mac
+.DS_Store
